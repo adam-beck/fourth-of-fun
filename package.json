@@ -1,0 +1,29 @@
+{
+  "name": "fourth-of-fun",
+  "version": "1.0.0",
+  "description": "A group website for the annual trip to Hocking Hills over the Fourth of July weekend.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-beck/fourth-of-fun.git"
+  },
+  "keywords": [
+    "fun",
+    "event",
+    "website"
+  ],
+  "author": "Adam Beck <AdamB.Infinity@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam-beck/fourth-of-fun/issues"
+  },
+  "homepage": "https://github.com/adam-beck/fourth-of-fun#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.23",
+    "browser-sync": "^2.9.1",
+    "gulp": "^3.9.0"
+  }
+}
