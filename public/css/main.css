@@ -1,0 +1,16 @@
+.intro {
+  text-align: center;
+  font-size: 2em;
+}
+
+@media (min-width: 880px) {
+  .intro {
+    font-size: 3em;
+  }
+}
+
+@media (min-width: 1000px) {
+  .intro {
+    font-size: 5em;
+  }
+}
